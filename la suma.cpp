@@ -3,11 +3,11 @@
 #include<iostream>
 using namespace std;
 int main(){
-    //valores de tipo entero
+    //valores de numeros enteros
     int a,b,suma
     cout<<"ingresar primer valor: " ;cin>>a;
     cout<<"ingresar segundo valor: " ;cin>>b;
-    //proceso de calulo de la suma
+    //proceso de calculo de la suma
     suma=a+b;
     //salida del proceso
     count<<"la suma de dichos dos numeros ingresados es "<<suma<<endl;
